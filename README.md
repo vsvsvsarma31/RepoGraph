@@ -14,7 +14,7 @@ Repo Graph scans a repository, extracts files and symbols, connects them with re
 
 ## Installation
 ```bash
-git clone https://github.com/yourname/repo_graph
+git clone https:https://github.com/vsvsvsarma31/RepoGraph
 cd repo_graph
 pip install -e .
 ```
@@ -25,7 +25,7 @@ pip install -e .
 repo_graph --repo /path/to/project
 
 # GitHub URL
-repo_graph --repo https://github.com/org/repo
+repo_graph --repo https://github.com/vsvsvsarma31/RepoGraph
 
 # With options
 repo_graph --repo . --out graph.json --max-nodes 50000 --min-weight 0.1 --days 90
