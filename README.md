@@ -9,8 +9,6 @@ Turn any GitHub repo into an interactive knowledge graph.
 ## What it does
 Repo Graph scans a repository, extracts files and symbols, connects them with relationship edges, and writes the result as a graph you can inspect. The output is a structured `graph.json` file plus a self-contained `graph.html` visualization, so you can review both the raw data and the interactive map of the codebase.
 
-## Demo
-[screenshot or gif here]
 
 ## Installation
 ```bash
