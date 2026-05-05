@@ -1,4 +1,4 @@
 from .main import cli
-#ekkada edho saradhaga petta
+#ekkada
 if __name__ == "__main__":
     cli()
